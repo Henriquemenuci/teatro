@@ -7,7 +7,7 @@
 <body>
 		<div id="menu">
 			<ul>
-				<li><a href="index.php">INICIO</a></li>
+				<li><a href="index.php">INICIOO</a></li>
 				<li><a href="public\exibir_noticia.php">NOTICIAS</a></li>
 				<li><a href="#">APRESENTAÇÕES</a></li>
 				<li><a href="#">PEÇAS</a></li>
